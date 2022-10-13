@@ -21,7 +21,7 @@ export default class Commands {
 
         if(cmd.includes(' ')) {
             name = cmd.substring(0, cmd.indexOf(' '))
-            argStr = cmd.substring(cmd.indexOf(' '))
+            argStr = cmd.substring(cmd.indexOf(' ') + 1)
         } else {
             argStr = ''
         }

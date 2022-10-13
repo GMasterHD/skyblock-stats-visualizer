@@ -1,0 +1,108 @@
+{
+    "uuid": "d0af79988adc4b18b6030e4228ab7d36",
+    "mining": {
+        "treasureChests": []
+    },
+    "dungoens": {
+        "catacombs": {
+            "floors": {
+                "F1": {
+                    "completions": 0,
+                    "spent": 0,
+                    "drops": []
+                },
+                "F2": {
+                    "completions": 0,
+                    "spent": 0,
+                    "drops": []
+                },
+                "F3": {
+                    "completions": 0,
+                    "spent": 0,
+                    "drops": []
+                },
+                "F4": {
+                    "completions": 0,
+                    "spent": 0,
+                    "drops": []
+                },
+                "F5": {
+                    "completions": 0,
+                    "spent": 0,
+                    "drops": []
+                },
+                "F6": {
+                    "completions": 0,
+                    "spent": 0,
+                    "drops": []
+                },
+                "F7": {
+                    "completions": 0,
+                    "spent": 200000,
+                    "drops": [
+                        {
+                            "id": "skyblock:recombobulator",
+                            "count": 1
+                        },
+                        {
+                            "id": "skyblock:wither_blood",
+                            "count": 3
+                        }
+                    ]
+                },
+                "M1": {
+                    "completions": 0,
+                    "spent": 0,
+                    "drops": []
+                },
+                "M2": {
+                    "completions": 0,
+                    "spent": 0,
+                    "drops": []
+                },
+                "M3": {
+                    "completions": 0,
+                    "spent": 0,
+                    "drops": []
+                },
+                "M4": {
+                    "completions": 0,
+                    "spent": 0,
+                    "drops": []
+                },
+                "M5": {
+                    "completions": 0,
+                    "spent": 0,
+                    "drops": []
+                },
+                "M6": {
+                    "completions": 0,
+                    "spent": 0,
+                    "drops": []
+                },
+                "M7": {
+                    "completions": 0,
+                    "spent": 0,
+                    "drops": []
+                }
+            }
+        }
+    },
+    "slayer": {
+        "zombie": {
+            "drops": null
+        },
+        "spider": {
+            "drops": null
+        },
+        "wolf": {
+            "drops": null
+        },
+        "enderman": {
+            "drops": null
+        },
+        "blaze": {
+            "drops": null
+        }
+    }
+}
